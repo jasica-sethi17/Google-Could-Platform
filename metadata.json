@@ -1,0 +1,5 @@
+{
+  "name": "Fantasy Character Generator",
+  "description": "A simple web application that uses the Gemini API to generate random fantasy characters with a unique name and class. Click the button to create a new hero.",
+  "requestFramePermissions": []
+}
